@@ -11,9 +11,10 @@ public class ArithmeticOperations {
     static int drawisMonitorsCounter(int monitors, int programmers) {
         return monitors % programmers;
     }
+
     static class Govno {
         static int egor(int s, int e) {
-            return s-e;
+            return s - e;
         }
     }
 }
